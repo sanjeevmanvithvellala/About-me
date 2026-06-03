@@ -50,9 +50,6 @@
 
 ## 🌟 Featured Projects
 
-### 🌫️ AirX
-AI-powered PM2.5 Air Pollution Monitoring & Prediction System
-
 ### 🏏 Shadow Cricket AI
 Real-time Cricket Shot Analysis and AI Coaching Platform
 
@@ -64,27 +61,17 @@ Nutrition Analysis & Healthy Eating Assistant for Children
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</div>
-
----
 
 ## 🌍 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sanjeevmanvithvellala">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/vellala-sanjeev-manvith-3ab865324/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
