@@ -79,7 +79,7 @@ Nutrition Analysis & Healthy Eating Assistant for Children
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/snowflake718/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -90,7 +90,5 @@ Nutrition Analysis & Healthy Eating Assistant for Children
 <div align="center">
 
 ### ✨ Turning Data into Intelligence and Ideas into Impact ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
