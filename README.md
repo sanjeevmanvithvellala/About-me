@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-📊 Data Science and Analytics Enthusiast
-🌱 Currently exploring Generative AI, LLMs & MLOps
-🏆 Hackathon Participant & AI Project Builder
-💡 Building innovative AI solutions for real-world challenges
-📚 Always learning and exploring emerging technologies
-📧 Email: sanjeevmanvithvellala@gmail.com
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 📊 Data Science and Analytics Enthusiast
+- 🌱 Currently exploring Generative AI, LLMs & MLOps
+- 🏆 Hackathon Participant & AI Project Builder
+- 💡 Building innovative AI solutions for real-world challenges
+- 📚 Always learning and exploring emerging technologies
+- 📧 Email: sanjeevmanvithvellala@gmail.com
 
 ---
 
